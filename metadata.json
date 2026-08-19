@@ -1,0 +1,6 @@
+{
+  "name": "AIDUS",
+  "description": "Unlock lost revenue and save hours of administrative labor with AIDUS's premium, bespoke business automation systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
